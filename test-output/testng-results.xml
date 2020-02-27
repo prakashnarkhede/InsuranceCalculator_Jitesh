@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15943" started-at="2020-02-27T21:31:07 IST" finished-at="2020-02-27T21:31:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15943" started-at="2020-02-27T21:31:07 IST" finished-at="2020-02-27T21:31:23 IST">
+      <class name="seleniumPractice.handleRadioButton">
+        <test-method status="PASS" signature="RadioButtonTestCase()[pri:0, instance:seleniumPractice.handleRadioButton@9660f4e]" name="RadioButtonTestCase" duration-ms="15885" started-at="2020-02-27T21:31:07 IST" finished-at="2020-02-27T21:31:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RadioButtonTestCase -->
+      </class> <!-- seleniumPractice.handleRadioButton -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
